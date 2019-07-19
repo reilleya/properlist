@@ -9,6 +9,20 @@ Python lists that start 1 instead of 0
 
 Becuase it can be done
 
+## Examples
+
+```
+from properlist import ProperList
+
+proper_list = ProperList()
+
+proper_list.append(5)
+proper_list.append(2)
+
+print(proper_list[1]) # returns 5
+print(proper_list[2]) # returns 2
+```
+
 ## Known Bugs
 
 - [ ] Doesn't support slicing
