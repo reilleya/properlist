@@ -20,7 +20,7 @@ class ProperList(list):
             return super().index(x, start-1)+1
 
         if end:
-            return super().index(x, end=end)+1
+            return super().index(x, end=end-1)+1
         
         else:
             return super().index(x)+1
