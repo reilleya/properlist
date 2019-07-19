@@ -1,13 +1,21 @@
 # properlist
-Proper lists for Python
+![PyPI](https://img.shields.io/pypi/v/properlist.svg?color=blue)
+![License](https://img.shields.io/pypi/l/properlist.svg)
 
+Proper lists for Python
 ## What
 
 Python lists that start 1 instead of 0
 
 ## But why
 
-Becuase it can be done
+Because it can be done
+
+## Installation
+
+```
+pip install properlist
+```
 
 ## Examples
 
