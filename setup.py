@@ -18,7 +18,7 @@ URL = 'https://github.com/msafadieh/properlist'
 EMAIL = 'me@msafadieh.com'
 AUTHOR = 'Mohamad Safadieh'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 REQUIRED = [
 ]
