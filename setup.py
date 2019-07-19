@@ -18,7 +18,7 @@ URL = 'https://github.com/msafadieh/properlist'
 EMAIL = 'me@msafadieh.com'
 AUTHOR = 'Mohamad Safadieh'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 
 REQUIRED = [
 ]
@@ -109,7 +109,7 @@ setup(
     install_requires=REQUIRED,
     extras_require=EXTRAS,
     include_package_data=True,
-    license='MIT',
+    license='GPLv3',
     classifiers=[
         # Trove classifiers
         # Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
