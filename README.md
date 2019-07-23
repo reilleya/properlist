@@ -5,7 +5,7 @@
 Proper lists for Python
 ## What
 
-Python lists that start 1 instead of 0
+Python lists that start at 1 instead of 0
 
 ## But why
 
